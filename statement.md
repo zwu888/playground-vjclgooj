@@ -1,6 +1,5 @@
-# Welcome!
-
-This C++ template lets you get started quickly with a simple one-page playground.
+# description: 
+ BOX is printed.  The return type of an overriding virtual function must have either the same type as the function it is overriding or both functions must return a pointer or reference with the same cv-qualifications whereby the class pointed or reffered to in the overridden function is an unambiguous and accessible direct or indirect base class of the class pointed or referred to in the overriding function.
 
 ```C++ runnable
 #include <iostream>
